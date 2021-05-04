@@ -1,4 +1,15 @@
-# tvs-vue
+# tvs-vuejscc2019-20190110
+
+Traversy Media - Vue JS Crash Course (Jan 10, 2019) | Link: https://www.youtube.com/watch?v=Wy9q22isx3U
+
+In this crash course you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc
+
+Code For Turorial:
+https://github.com/bradtraversy/vue_c...​
+
+Deploy Sites With Netlify (Video):
+https://www.youtube.com/watch?v=bjVUq...
+
 
 ## Project setup
 ```
